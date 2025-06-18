@@ -6,6 +6,11 @@ const modules = [
     title: "英语代词",
     desc: "详解人称、物主、反身等代词用法",
   },
+  {
+    href: "/consonant-clusters",
+    title: "辅音连缀",
+    desc: "常见 Consonant Blends 分类与示例",
+  },
 ] as const;
 
 export default function Home() {
